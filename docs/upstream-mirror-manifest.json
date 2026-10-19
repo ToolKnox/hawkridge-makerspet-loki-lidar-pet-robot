@@ -1,0 +1,719 @@
+{
+ "repo": "makerspet/3d_models",
+ "commit": "42d7b7956bd6d54b8cff79f26c2f1d54f677ea18",
+ "files": [
+  {
+   "path": "LICENSE",
+   "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+  },
+  {
+   "path": "README.md",
+   "sha": "49d8601f0f3ae51117467cbe2e68909f2f1267b4"
+  },
+  {
+   "path": "loki_200mm/3mf/Battery 3x9V Upright Pedestal.3mf",
+   "sha": "14e66cc32abed1b2c8a1707bcba02ca1147cdb59"
+  },
+  {
+   "path": "loki_200mm/3mf/Battery Pack 3x9V Upright Lid.3mf",
+   "sha": "33a75222c83710e023c5dc0ed6c82c77dc825b85"
+  },
+  {
+   "path": "loki_200mm/3mf/Battery Pack 3x9V Upright.3mf",
+   "sha": "d31f3a560ae3dfbd7bbea533d33029f35dfcf4ea"
+  },
+  {
+   "path": "loki_200mm/3mf/Bottom plate.3mf",
+   "sha": "fe272c2567306e3482821d8c6ef9b108059f6117"
+  },
+  {
+   "path": "loki_200mm/3mf/Bumper back.3mf",
+   "sha": "c79e8830d499fe35917be2d948932f36ee126af7"
+  },
+  {
+   "path": "loki_200mm/3mf/Bumper front.3mf",
+   "sha": "c59eddd9e1e0404435a5c337a1800055398ed666"
+  },
+  {
+   "path": "loki_200mm/3mf/Caster wheel with break-off pedestal.3mf",
+   "sha": "70b9d0cf6abc61ec3eb96815399180d754d20cf8"
+  },
+  {
+   "path": "loki_200mm/3mf/Handset Clamp.3mf",
+   "sha": "744cf5c39d2363a71ac0c05f3ad7c9263c6c14be"
+  },
+  {
+   "path": "loki_200mm/3mf/Handset Footrest.3mf",
+   "sha": "72b26604f5836c5109ca82231ba9aea680fb7223"
+  },
+  {
+   "path": "loki_200mm/3mf/Head.3mf",
+   "sha": "01bb86f9d30502f7d1c3246b6a54032efde45906"
+  },
+  {
+   "path": "loki_200mm/3mf/LDS02RR Plate.3mf",
+   "sha": "05e01b592d3e2172019ee3135e2bab9a708b223d"
+  },
+  {
+   "path": "loki_200mm/3mf/Middle plate.3mf",
+   "sha": "8f8666b44aadc46d8060f071de0771100345cfb8"
+  },
+  {
+   "path": "loki_200mm/3mf/Motor bracket x2.3mf",
+   "sha": "868d0bc04b686919842b8517ef077c817beac7c0"
+  },
+  {
+   "path": "loki_200mm/3mf/Neato XV11 Plate.3mf",
+   "sha": "24836a346138914518b0cc1077688db5acadd133"
+  },
+  {
+   "path": "loki_200mm/3mf/RPLIDAR A1 Plate.3mf",
+   "sha": "e3ea8a6c92a316a188b98b6fa80ebd53c05168ca"
+  },
+  {
+   "path": "loki_200mm/3mf/Upper plate.3mf",
+   "sha": "171cacc65dec9d9186d6545edef5dc9312ad2e66"
+  },
+  {
+   "path": "loki_200mm/3mf/YDLIDAR X2 Plate.3mf",
+   "sha": "5365e5d91465a5f379360725639983c999ddcc9d"
+  },
+  {
+   "path": "loki_200mm/3mf/YDLIDAR X2L Plate.3mf",
+   "sha": "2998b49e880273613b07bbf6274e855500f61e45"
+  },
+  {
+   "path": "loki_200mm/3mf/YDLIDAR X3 PRO plate.3mf",
+   "sha": "bd226bb17ec54e293f632b2f6c43c3d4dd717beb"
+  },
+  {
+   "path": "loki_200mm/3mf/YDLidar X4 plate.3mf",
+   "sha": "ea80665a5a893c2ca98f0a4bf4c6c444302463ae"
+  },
+  {
+   "path": "loki_200mm/fusion360/Loki v550.f3z",
+   "sha": "511091cea3c21dbf7aa0e68cec3253dd49f935ea"
+  },
+  {
+   "path": "loki_200mm/fusion360/Loki v670.f3z",
+   "sha": "9496a867ed78f017a2e020cdbfc61ad1a64052b4"
+  },
+  {
+   "path": "loki_200mm/fusion360/README.md",
+   "sha": "5eedd1976920e4d55552261a256b292a3fbda98c"
+  },
+  {
+   "path": "loki_200mm/mods/bumper/3mf/Bumper back.3mf",
+   "sha": "ffbdcba3a93983f158503393148e441107035d2d"
+  },
+  {
+   "path": "loki_200mm/mods/bumper/3mf/Bumper front.3mf",
+   "sha": "af232a3526fecb97a471b41a74a838af4b4ffc11"
+  },
+  {
+   "path": "loki_200mm/mods/bumper/stl/Bumper back.stl",
+   "sha": "d2e2e15ba69ac3e0db732b415b2a1bcf5f3b6fcd"
+  },
+  {
+   "path": "loki_200mm/mods/bumper/stl/Bumper front.stl",
+   "sha": "fb1b7172402b835584c87da5347d31255189b2cd"
+  },
+  {
+   "path": "loki_200mm/mods/ears/3mf/Ear Bone Mirror.3mf",
+   "sha": "1b7f298ed286c6fab0d3df33d6f62dfd330f90a0"
+  },
+  {
+   "path": "loki_200mm/mods/ears/3mf/Ear Bone.3mf",
+   "sha": "dc575c06cd4979b89ea7d8a23a38eef2c7e4d804"
+  },
+  {
+   "path": "loki_200mm/mods/ears/3mf/Head.3mf",
+   "sha": "34ae6a9f3c0726ceef87bb011c8c985be2992592"
+  },
+  {
+   "path": "loki_200mm/mods/ears/3mf/Servo Standoff Mirror.3mf",
+   "sha": "b5143aaa9023762b883b77fc9019d3bae2a86e6f"
+  },
+  {
+   "path": "loki_200mm/mods/ears/3mf/Servo Standoff.3mf",
+   "sha": "7d80e575e3a99bf993120f960b3ca17aca064ffc"
+  },
+  {
+   "path": "loki_200mm/mods/ears/stl/Ear Bone Mirror.stl",
+   "sha": "8cd5c5feed8b981eb24c840cb1a23ee536712b13"
+  },
+  {
+   "path": "loki_200mm/mods/ears/stl/Ear Bone.stl",
+   "sha": "df0a523412b9f2190206f4c4c52cb71d35676bd9"
+  },
+  {
+   "path": "loki_200mm/mods/ears/stl/Head.stl",
+   "sha": "c4b7d6cbcbeb2ae5e273589d198a764fc3a5b192"
+  },
+  {
+   "path": "loki_200mm/mods/ears/stl/Servo Standoff Mirror.stl",
+   "sha": "69f67d1fad57e924379639031cf19e1914235e98"
+  },
+  {
+   "path": "loki_200mm/mods/ears/stl/Servo Standoff.stl",
+   "sha": "f838253d836b912434d2e7731ca91c5b5f6eed8a"
+  },
+  {
+   "path": "loki_200mm/stl/Battery 3x9V Upright Pedestal.stl",
+   "sha": "590fba88dc1a5585d414eadaedd797695bbf0c96"
+  },
+  {
+   "path": "loki_200mm/stl/Battery Pack 3x9V Upright Lid.stl",
+   "sha": "a7ab1b9a53acf16ca7b7338a0f3c0de8b2195ddd"
+  },
+  {
+   "path": "loki_200mm/stl/Battery Pack 3x9V Upright.stl",
+   "sha": "41549512621890780077c977e01358217bfece04"
+  },
+  {
+   "path": "loki_200mm/stl/Bottom plate.stl",
+   "sha": "a3a4b0e82bd65d653241e596d9baac3e3a3e9ce5"
+  },
+  {
+   "path": "loki_200mm/stl/Bumper back.stl",
+   "sha": "08416f1386396a467b012d42d7df67f41152b0cf"
+  },
+  {
+   "path": "loki_200mm/stl/Bumper front.stl",
+   "sha": "622313f13e1022e95d1211c8cc50c19c02e1588a"
+  },
+  {
+   "path": "loki_200mm/stl/Caster wheel with break-off pedestal.stl",
+   "sha": "4f26929b41c270054ade708897e8f98f00737689"
+  },
+  {
+   "path": "loki_200mm/stl/Handset Clamp.stl",
+   "sha": "e1c2098ee748a06742b1f0a1763753f8cb6ec58e"
+  },
+  {
+   "path": "loki_200mm/stl/Handset Footrest.stl",
+   "sha": "75c9cdc914bd71afc54b6d78ab581f0244d26462"
+  },
+  {
+   "path": "loki_200mm/stl/Head.stl",
+   "sha": "3abd3e0153d09d9de78e8a0b9843eb09a867a983"
+  },
+  {
+   "path": "loki_200mm/stl/LDS02RR Plate.stl",
+   "sha": "dbabf304d006173f43d27190cf79b0bb1fb459bf"
+  },
+  {
+   "path": "loki_200mm/stl/Middle plate.stl",
+   "sha": "ebb98139559b83a1ed8b6e85a82f064d58baa2a7"
+  },
+  {
+   "path": "loki_200mm/stl/Motor bracket x2.stl",
+   "sha": "ae1d7c85138ded839b4b37de82c9b9e6e0995e60"
+  },
+  {
+   "path": "loki_200mm/stl/Neato XV11 Plate.stl",
+   "sha": "a5198ae159f0ea5a38eb43e4f55440011c7d6b10"
+  },
+  {
+   "path": "loki_200mm/stl/RPLIDAR A1 Plate.stl",
+   "sha": "275f8939aa93a284ed868ac67bee6adc6c373d88"
+  },
+  {
+   "path": "loki_200mm/stl/Upper plate.stl",
+   "sha": "58dfe2e2c32053c3db796c28cb750170b906fd33"
+  },
+  {
+   "path": "loki_200mm/stl/YDLIDAR X2 Plate.stl",
+   "sha": "784b96e3299fbd6558cb5cfe590f16155b5ad431"
+  },
+  {
+   "path": "loki_200mm/stl/YDLIDAR X2L Plate.stl",
+   "sha": "3a4c4d7324fc40324483e0eaa3ac63fba77d418d"
+  },
+  {
+   "path": "loki_200mm/stl/YDLIDAR X3 PRO plate.stl",
+   "sha": "c42c4036799d62bb76e677cc9cbec6bd8e77cdce"
+  },
+  {
+   "path": "loki_200mm/stl/YDLidar X4 plate.stl",
+   "sha": "c0950fc2eae2d06795dc6677567209258a77339e"
+  }
+ ],
+ "excluded": [
+  {
+   "path": "fido_250mm/3mf/Battery 3x9V Upright Pedestal.3mf",
+   "sha": "efab018bb47693470f151e0edae1808e22e064f7",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/Battery Pack 3x9V Upright Lid.3mf",
+   "sha": "2e1661162c7a1778fb3ac0edf334669b839750a3",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/Battery Pack 3x9V Upright.3mf",
+   "sha": "7ae32ddfcd3248e47aa35828af5770d1945ed4fe",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/Bottom plate.3mf",
+   "sha": "ea9db90f0fa472c5dce760166464fb6f813530f2",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/Bumper back.3mf",
+   "sha": "daa9720ab291d4494e3f6b7211182caf3dab4bc6",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/Bumper front.3mf",
+   "sha": "d47d89d4afaab67be6f16f915878343abea04f35",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/Caster wheel.3mf",
+   "sha": "8de1af20e98edcd432a864ca12fba3f7548a32dd",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/Handset Clamp.3mf",
+   "sha": "5866d28d156a4803aea46c86d20196137c9494b3",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/Handset Footrest.3mf",
+   "sha": "3f85394f600bef96cc40b82ff5e54e8885bc7af2",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/Head.3mf",
+   "sha": "6ee0daa94c5ba92912640b3b59803f72eebd8159",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/Middle plate.3mf",
+   "sha": "c6504f79b5ce5bf4840d9b7a07d9190e2d99a8c4",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/Motor bracket x2.3mf",
+   "sha": "868d0bc04b686919842b8517ef077c817beac7c0",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/Upper plate.3mf",
+   "sha": "c3a5e26b833b82e0ed4bc554a8c1db6ccaa20cbf",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/3mf/YDLidar X4 plate.3mf",
+   "sha": "5289fa2d533d477f5fc2ddbb4fd7e3dbecbfb232",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/fusion360/Fido v550.f3z",
+   "sha": "d09b7a986cbcbd5d80689d9a590eac109d59ee2a",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/fusion360/README.md",
+   "sha": "e58453cd80c4f582b76b7c33756504508cbf12ac",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/bumper/3mf/Bumper back.3mf",
+   "sha": "11359e478b15513747fdafbf4c184ddffdb66d26",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/bumper/3mf/Bumper front.3mf",
+   "sha": "ea9a12f25b1ddafbc92c783bca6c5f53dac0adf8",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/bumper/stl/Bumper back.stl",
+   "sha": "af569bb39392cf99743ee49a09d954ae820edb0a",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/bumper/stl/Bumper front.stl",
+   "sha": "a3a0b732e68c0e63d96a56b70779e088ee8ed8ca",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/ears/3mf/Ear Bone Mirror.3mf",
+   "sha": "8f54b3b231fccd9bf3360649b25e18afe0f3aa25",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/ears/3mf/Ear Bone.3mf",
+   "sha": "5995f9cd94df4628a48f26a9d0f2d6469cd0a154",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/ears/3mf/Head.3mf",
+   "sha": "1a90e5db54bf047e41a1f5263e109ff16bd7ce63",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/ears/3mf/Servo Standoff Mirror.3mf",
+   "sha": "20c55213e831e78a4a10602af5e0ea301fe30502",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/ears/3mf/Servo Standoff.3mf",
+   "sha": "f689a4dced5b3dca248db8e59e0133e52415b605",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/ears/stl/Ear Bone Mirror.stl",
+   "sha": "13237a7c8ff586eaa1c8169f2f83f633364c9822",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/ears/stl/Ear Bone.stl",
+   "sha": "aa39cd72244c54d3a52032c221ef25c21088c08b",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/ears/stl/Head.stl",
+   "sha": "58b57838315f06125fac38b7ae1481bcac835cca",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/ears/stl/Servo Standoff Mirror.stl",
+   "sha": "a5cea963209a1fe874089ef2f712abee3724fa79",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/mods/ears/stl/Servo Standoff.stl",
+   "sha": "2c667d4d8cedc49a9f3aa11693433805c2cd10d2",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Battery 3x9V Upright Pedestal.stl",
+   "sha": "fa0efc1157b7ddfb470b6859c34886f3292fa548",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Battery Pack 3x9V Upright Lid.stl",
+   "sha": "3f9a35f2c5deb249333135d5c1f6c05d7bdb69e3",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Battery Pack 3x9V Upright.stl",
+   "sha": "b999223d3479d40cedac91cd621cf4df83beb039",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Bottom plate.stl",
+   "sha": "7ce280cd065fe52489064e48ebcc25ea98f43387",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Bumper back.stl",
+   "sha": "51401612477efb354792bc469f5e88a306d3b01b",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Bumper front.stl",
+   "sha": "ef8c41ab1088606431eb7a046de893c8c654c9a7",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Caster wheel.stl",
+   "sha": "0abde0289f8b98568f7da466d89fa7df045f8b16",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Handset Clamp.stl",
+   "sha": "1925fd289579b31481c36a1a2639c1ec851046a1",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Handset Footrest.stl",
+   "sha": "553800f9e9e3ced3e61e8f28f613d2579ee4dd58",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Head.stl",
+   "sha": "af75d2f4c4f4a741c261e3fb32a35d027bebcb34",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Middle plate.stl",
+   "sha": "466e8289a08a5aa3258cbb7f328a26fb072658e5",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Motor bracket x2.stl",
+   "sha": "ae1d7c85138ded839b4b37de82c9b9e6e0995e60",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/Upper plate.stl",
+   "sha": "6191be9a221e1e357ba98de5f82400b13a99a763",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "fido_250mm/stl/YDLidar X4 plate.stl",
+   "sha": "c0950fc2eae2d06795dc6677567209258a77339e",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/bottom/caster_wheel_half_v15_1_body1.3mf",
+   "sha": "1a50a98fa7b5851d00baa923b65da5c4a01ad8b2",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/bottom/motor_bracket_chr-gm25-bl2418_v5(mirror)_1_body1.3mf",
+   "sha": "c1c61216542344356d8c854a94821e25e4f08b79",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/bottom/motor_bracket_chr-gm25-bl2418_v9_1_body1.3mf",
+   "sha": "1bc98601e63df64b2afc99e79eb5043f8a433d76",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/bottom/plate.3mf",
+   "sha": "92f42028b3338624713fdecab0860264bb4d33c2",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/head/front_stop.3mf",
+   "sha": "b68db542f84fa5c02d341808a85db761618c9bfb",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/head/head.3mf",
+   "sha": "5e7051938f76b8c41b49340afa6358fd86633f7f",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/head/top_stop.3mf",
+   "sha": "c79a1af907756cfb2d71b9d6b20776eaf0f2b580",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/middle/plate.3mf",
+   "sha": "23c414623f7c007bfcc672a7017880474569f5c2",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/battery/18650_6s_3x2_battery_holder_v11_1_body1.3mf",
+   "sha": "abc43b1c72e9617a1849bd1479b7447bf8862892",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/battery/case.3mf",
+   "sha": "fb9ba506feb83d97c52a4568c301bf34ed7935fe",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/battery/lid.3mf",
+   "sha": "f0cef26acaa69f3a869426f1a6442b4c2e7e83fb",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/battery/spacer.3mf",
+   "sha": "116c09bd201fd8691e9cfa8b6dc68f05f807d5c5",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/bumper/bumper_v18_1_body1.3mf",
+   "sha": "03f965c3c330853cf1576136c174a568f5dbe4ab",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/bumper/sensor/bumper_bracket_cover_v17_3_body1.3mf",
+   "sha": "4e2c8a5a260e70b953a6da80588e1ae5ccb5ca01",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/bumper/sensor/bumper_bracket_side_v29(mirror)_1_body1.3mf",
+   "sha": "4b5aad6f5023edb1ba1182363aa1fc10762251b0",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/bumper/sensor/bumper_bracket_side_v52_3_body3.3mf",
+   "sha": "b0cd2a5a4f9fe4d1381d784245134fb2bf678101",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/bumper/sensor/bumper_mount_side_v41_3_body7.3mf",
+   "sha": "2f700c946c631129245ba0a2bd64da76f7db470a",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/cliff/baffle.3mf",
+   "sha": "2d32e7c1e7ad4045305d94ca2416993416523ba6",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/cliff/enclosure.3mf",
+   "sha": "62b99e095011f45cacf99fb99791559e5d63f836",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/wheel/65mm_tire_1_body1.3mf",
+   "sha": "c7c42d6ab936a7618145d6529160437c1999644c",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/wheel/blue_wheel_frame_1_body1.3mf",
+   "sha": "90ec8e87084e10ca588d860d850362787c5500cb",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/optional/wheel/motor_adapter_4mm_id_1_body1.3mf",
+   "sha": "69347d26a43aebfbbb4367bacb0dd3c1186773cb",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/top/plate.3mf",
+   "sha": "54f09ba637991b13e7d577950e607f802736993a",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/ydlidar/latch.3mf",
+   "sha": "2dd159da27bb46e0b846d62d61b2c8576a360fc6",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/3mf/ydlidar/plate.3mf",
+   "sha": "90fb241437c37f5758833d2716c1234e70bae135",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/fusion360/Snoopy v126.f3z",
+   "sha": "a918615c1f64c68c6d40f3e215aa2869f14e497a",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/bottom/caster_wheel_half_v15_1_body1.stl",
+   "sha": "db82b81745b5f974543cb38bf52e7ceff4a88d97",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/bottom/motor_bracket_chr-gm25-bl2418_v5(mirror)_1_body1.stl",
+   "sha": "7f972a418c9a3f83134e9ad6c96c053fb3c7b207",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/bottom/motor_bracket_chr-gm25-bl2418_v9_1_body1.stl",
+   "sha": "31eb6f2365236f3a35c0c38132f1c71c6b60ce2d",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/bottom/plate.stl",
+   "sha": "85c4ebda1af53ed0d2a86b62c425e753a6b28ea6",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/head/front_stop.stl",
+   "sha": "c09b37c9c649ddf9599ad61d8b672dfc115002e3",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/head/head.stl",
+   "sha": "a335008f223a606fd877a08980afb3b98de0b2d8",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/head/top_stop.stl",
+   "sha": "c9f55cf5448b4b4657d5f0dd9dbc9577a3434fe6",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/middle/plate.stl",
+   "sha": "a76eb5cae0386f80f14fad4cf3001831147f49dd",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/battery/18650_6s_3x2_battery_holder_v11_1_body1.stl",
+   "sha": "8c621d432b891363e8757e98ae8d73fbcbe7543d",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/battery/case.stl",
+   "sha": "dfb0e3be4b061123a4ddfb814a35672683f2c652",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/battery/lid.stl",
+   "sha": "462cf89a9c5c36d8cd1d8286be1621bf2fe996e0",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/battery/spacer.stl",
+   "sha": "a176801ed375f8cb761b8c35ec97e71a5ceb97a8",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/bumper/bumper_v18_1_body1.stl",
+   "sha": "872b5290abed4d55270a34b5aa15de6ba539073d",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/bumper/sensor/bumper_bracket_cover_v17_1_body1.stl",
+   "sha": "004f4919a213bd472ddae4348a8383093c64bb06",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/bumper/sensor/bumper_bracket_side_v29(mirror)_1_body1.stl",
+   "sha": "9f56fd17f6d4f3b3ecd29d95454a7e4ef3733131",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/bumper/sensor/bumper_bracket_side_v52_1_body3.stl",
+   "sha": "6fcdda7a35aabcb511702a286db2e018ea2ee907",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/bumper/sensor/bumper_mount_side_v41_1_body7.stl",
+   "sha": "243642f58a51c6d15f0975a5a25c86c2f249af7e",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/cliff/baffle.stl",
+   "sha": "fbf5a9ce31bc3bca79a7aba232f806c10a1c5b30",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/cliff/enclosure.stl",
+   "sha": "f789219b779c66517abb8e4de10e2efb6455e39d",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/wheel/65mm_tire_1_body1.stl",
+   "sha": "25104f96e946647359d9164e7b96fc45bccde498",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/wheel/blue_wheel_frame_1_body1.stl",
+   "sha": "a65c84388e8fd1a6e83efe146e5b6306678e1ad4",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/optional/wheel/motor_adapter_4mm_id_1_body1.stl",
+   "sha": "1cd0b18512f96bc39edb5af83a5826e7a8401670",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/top/plate.stl",
+   "sha": "26463d431bf705dda84dd209d4a2bf3427e29c58",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/ydlidar/latch.stl",
+   "sha": "767b0a3bb6f721efec858535c8bc39c51880c57c",
+   "reason": "not part of this build"
+  },
+  {
+   "path": "snoopy_300mm/stl/ydlidar/plate.stl",
+   "sha": "ffaadeac5a59258d567c9487cafab85a0ef8277e",
+   "reason": "not part of this build"
+  }
+ ]
+}
