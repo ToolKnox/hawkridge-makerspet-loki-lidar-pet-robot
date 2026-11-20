@@ -80,6 +80,10 @@ Maker's Pet Loki by makerspet (github.com/makerspet), Apache-2.0. Firmware and R
 - Robot project page with the assembly video and notes: https://github.com/makerspet/makerspet_loki
 - 3MF copies, optional mods (bumper, ears) and Fusion 360 sources: `source/upstream/loki_200mm/` in this repository.
 
+## Bill of Material
+
+[Bill of Material (PDF)](docs/Loki%20LiDAR%20Home%20Robot%20-%20Bill%20of%20Material.pdf): every part to buy, with shop links.
+
 ## Documentation download
 
 This repository is the documentation and source download for the build.
